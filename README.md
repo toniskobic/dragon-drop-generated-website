@@ -2,7 +2,7 @@
 
 This is an example page of a generated static website using [Dragon Drop](https://github.com/tskobic/dragon-drop) website builder.
 
-[Website](/pages)
+[Website](https://tskobic.github.io/dragon-drop-generated-website/pages/)
 
 ## Credits for Used Resources
 
@@ -16,5 +16,5 @@ To view this static website, you do not require any special installation steps. 
 
 ```bash
 git clone https://github.com/tskobic/dragon-drop-generated-website.git
-cd your-repo-name
+cd dragon-drop-generated-website
 open index.html
