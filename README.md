@@ -13,8 +13,3 @@ This is an example page of a generated static website using [Dragon Drop](https:
 ## Installation
 
 To view this static website, you do not require any special installation steps. Simply clone this repository and open the `index.html` file in a web browser.
-
-```bash
-git clone https://github.com/tskobic/dragon-drop-generated-website.git
-cd dragon-drop-generated-website
-open index.html
