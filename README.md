@@ -14,5 +14,5 @@ To view this static website, you do not require any special installation steps. 
 
 ```bash
 git clone https://github.com/tskobic/dragon-drop-generated-website.git
-cd your-repo-name
+cd dragon-drop-generated-websit
 open index.html
