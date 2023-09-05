@@ -2,6 +2,8 @@
 
 This is an example page of a generated static website using [Dragon Drop](https://github.com/tskobic/dragon-drop) website builder.
 
+[Website](/pages)
+
 ## Credits for Used Resources
 
 - **Logo**: The logo is a modified image made by [YusufSangdes on Freepik](https://www.freepik.com/free-vector/black-white-tree-line-art-logo-concept_9557579.htm#query=tree%20logo&position=1&from_view=keyword&track=ais).
@@ -14,5 +16,5 @@ To view this static website, you do not require any special installation steps. 
 
 ```bash
 git clone https://github.com/tskobic/dragon-drop-generated-website.git
-cd dragon-drop-generated-website
+cd your-repo-name
 open index.html
