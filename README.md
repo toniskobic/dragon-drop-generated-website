@@ -1,8 +1,8 @@
 # Dragon Drop Generated Static Website
 
-This is an example page of a generated static website using [Dragon Drop](https://github.com/tskobic/dragon-drop) website builder.
+This is an example page of a generated static website using [Dragon Drop](https://github.com/toniskobic/dragon-drop) website builder.
 
-[Website](https://tskobic.github.io/dragon-drop-generated-website/pages/)
+[Website](https://toniskobic.github.io/dragon-drop-generated-website/pages/)
 
 ## Credits for Used Resources
 
